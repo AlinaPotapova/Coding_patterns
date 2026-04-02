@@ -5,3 +5,9 @@ environment:
 
 dev_dependencies:
   test: ^1.25.0
+dependencies:
+  string_validator: ^1.2.0
+
+dependency_overrides:
+  string_validator:
+    path: stubs/string_validator

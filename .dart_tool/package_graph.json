@@ -6,10 +6,17 @@
     {
       "name": "coding_pattern",
       "version": "0.0.0",
-      "dependencies": [],
+      "dependencies": [
+        "string_validator"
+      ],
       "devDependencies": [
         "test"
       ]
+    },
+    {
+      "name": "string_validator",
+      "version": "1.2.0",
+      "dependencies": []
     },
     {
       "name": "test",
